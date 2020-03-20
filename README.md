@@ -8,4 +8,6 @@ A recommender system is a simple algorithm whose aim is to provide the most rele
  There are two types of collaborative models Memory-based methods and Model-based methods.
 
 ## Memory Based Collaborative Filtering
- In memory based collaborative filtering the recommendations are made based on past experiences.There are two types of memory based collaborative filtering they are ### User-based collaborative filtering and ### Item-based collaborative filtering.
+ In memory based collaborative filtering the recommendations are made based on past experiences.There are two types of memory based collaborative filtering
+                  1. User-based collaborative filtering 
+                  2. Item-based collaborative filtering.
