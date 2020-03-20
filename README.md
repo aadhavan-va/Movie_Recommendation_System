@@ -11,3 +11,6 @@ A recommender system is a simple algorithm whose aim is to provide the most rele
  In memory based collaborative filtering the recommendations are made based on past experiences.There are two types of memory based collaborative filtering
                   1. User-based collaborative filtering 
                   2. Item-based collaborative filtering.
+## Correlation Function
+ Pandas corrwith() function is used to compute pairwise correlation between rows or columns of two DataFrame objects. 
+ If the shape of two dataframe object is not same then the corresponding correlation value will be a NaN value.
